@@ -1,0 +1,276 @@
+*{
+    margin: 0 ;
+    padding:0 ;
+}
+.cabecalho {
+    background-color: #f38cd4;
+    color: antiquewhite;
+    display:flex ;
+    justify-content: space-around;
+    padding: 5px 0;
+    height: 160px ;
+    padding: 15px 150px;
+
+}
+
+.cabecalho-imagem{
+ width: 20%;
+ margin: 0 -20%;
+} 
+
+.cabecalho-1{
+    display: inline-block;
+    margin: 0 30px;
+    padding: 0px 24px;;
+    font-size: 24px;;
+}
+.cabecalho-2 {
+    display: inline-block;
+    margin: 0 10px;
+    padding: 30px 0;
+    font-size: 24px;
+}
+.imagem-tecnico {
+    width: 45% ;
+}
+.cabecalho-lista{
+    background-color: aliceblue;
+    margin: 8% 400px;
+}
+.info-elite{
+    background-image:linear-gradient(#f38cd4,#f326fa	);
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+}
+.info-div-conteudo {
+    width: 35%;
+}
+.titulo-da-info-elite {
+    padding: 24px 0;
+}
+body{
+    font-family: 'Roboto Mono', monospace;
+}
+.trabalhe-conosco {
+    background-image:linear-gradient(#f17dc5,#ff6bb5);
+color: whitesmoke;
+text-align: center;
+}
+.texto-manutencao-um {
+    
+    margin: 0 24px;
+    padding: 30px 0;
+    font-size: 20px;
+    color: wheat;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: grid 40%;
+    
+}
+.texto-manutencao-dois{
+    margin: 0 150px;
+    padding: 30px 0;
+    font-size: 20px;
+    color: wheat;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: grid 40%;
+}
+.texto-manutencao-tres {
+    display: inline-block;
+    margin: 0 24px;
+    padding: 30px 0;
+    font-size: 20px;
+    color: wheat;
+    justify-content: center;
+    text-align: center;
+}
+.texto-manutencao-quatro{
+    display: inline-block;
+    margin: 0 24px;
+    padding: 30px 0;
+    font-size: 20px;
+    color: wheat;
+    justify-content: center;
+    text-align: center;
+}
+.texto-manutencao-cinco {
+    display: inline-block;
+    margin: 0 24px;
+    padding: 30px 0;
+    font-size: 20px;
+    color: wheat;
+    justify-content: center;
+    text-align: center;
+    
+}
+.primeira-div-dica{
+    width: 95%;
+    margin: 24px;
+    font-size: 20px;
+    padding: 24px;
+    padding:  0 24p;
+    margin: 10 10px;
+    text-align: center;
+}
+.segunda-giv-dica {
+    width: 95%;
+    margin: 24px;
+    font-size: 20px;
+    padding: 24px;
+    padding:  0 24p;
+    margin: 10 10px;
+    text-align: center;
+}
+.terceira-giv-dica{
+    width: 95%;
+    margin: 24px;
+    font-size: 20px;
+    padding: 24px;
+    padding:  0 24p;
+    text-align: center;
+    margin: 10 10px; 
+}
+.quarta-giv-dica{
+    width: 95%;
+    margin: 24px;
+    font-size: 20px;
+    padding: 24px;
+    padding:  0 24p; 
+    text-align: center;
+    margin: 10 10px;
+}
+.quinta-giv-dica{
+    width: 95%;
+    margin: 24px;
+    font-size: 20px;
+    padding: 24px;
+    padding:  0 24p; 
+    text-align: center;
+    margin: 10 10px;
+}
+.sexta-giv-dica{
+    width: 95%;
+    margin: 24px;
+    font-size: 20px;
+    padding: 24px;
+    padding:  0 24p; 
+    text-align: center;
+    margin: 10 10px;   
+}
+.dicas-titulo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+    align-items: center;
+}
+.trabalhe-conosco {
+ justify-content: space-around;  
+  
+}
+.primeira-div-dica{
+    background-image:linear-gradient(#461731,#e0429f	);
+    color: wheat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    text-align: center;
+
+}
+.image-dois{
+    width: 59%;
+}
+.segunda-giv-dica{
+    background-image:linear-gradient(#461731,#e0429f	);
+    color: wheat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    text-align: center;
+}
+
+.terceira-giv-dica{
+    background-image:linear-gradient(#461731,#e0429f	);
+    color: wheat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    text-align: center;
+}
+.image-quatro{
+    width: 60%;
+}
+.quarta-giv-dica{
+    background-image:linear-gradient(#461731,#e0429f	);
+    color: wheat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    text-align: center;
+}
+.image-cinco{
+    width: 60%;
+}
+.quinta-giv-dica{
+    background-image:linear-gradient(#461731,#e0429f	);
+    color: wheat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    text-align: center;
+}
+.sexta-giv-dica{
+    background-image:linear-gradient(#461731,#e0429f	);
+    color: wheat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    text-align: center;
+}
+
+.rodape{
+ background-color: black;   
+ text-align: center;
+}
+.rodape{
+justify-content: center;
+}
+.rodape-image{
+    height: 100px;
+    padding: 24px 0;
+}
+.trabalhe-conosco{
+   justify-content: center;
+   text-align: center;
+}
+.image-um {
+width: 30%;
+}
+.image-dois {
+    width: 17%;
+    padding: 0 -200px;
+}
+.image-tres{
+    width: 32%;
+}
+.image-quatro{
+    width: 18%;
+}
+.image-cinco{
+    width: 35%;
+}
+.image-seis{
+    width: 23%;
+}
